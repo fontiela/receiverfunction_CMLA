@@ -1,3 +1,5 @@
+geos
+proj
 numpy
 wget==3.2
 obspy==1.2.2
