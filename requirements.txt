@@ -1,4 +1,5 @@
-geos
+cython
+geos==3.9.1
 proj
 numpy
 wget==3.2
