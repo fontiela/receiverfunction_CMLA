@@ -1,10 +1,7 @@
 cython
-geos==3.9.1
-proj
 numpy
 wget==3.2
 obspy==1.2.2
-cartopy
 geographiclib==1.50
 shapely==1.7.1
 h5py==3.2.1
