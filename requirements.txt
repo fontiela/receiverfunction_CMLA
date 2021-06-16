@@ -7,5 +7,5 @@ h5py==3.2.1
 mtspec==0.3.2
 tqdm==4.60.0
 obspyh5==0.5.0
-toeplitz==0.3.1
+toeplitz
 rf==1.0.1
