@@ -1,0 +1,19 @@
+name: rfenv
+channels:
+  - conda-forge
+dependencies:  
+  - wget
+  - obspy
+  - cartopy
+  - geographiclib
+  - shapely
+  - h5py
+  - mtspec
+  - tqdm
+  - obspyh5
+  - toeplitz
+  - rf
+  - pip:
+    - obspyh5 
+    - toeplitz 
+    - rf 
