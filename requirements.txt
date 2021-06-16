@@ -1,5 +1,4 @@
 cython
-numpy
 wget==3.2
 obspy==1.2.2
 geographiclib==1.50
